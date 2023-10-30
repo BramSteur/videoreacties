@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif
+} 
+
+.background {
+    margin-top: -25px;
+    background-color: #92041E;
+}
+
+h1 {
+    margin-top: 25px;
+    margin-left: 630px;
+    color: #ffffff;
+}
+
+h2 {
+    margin-left: 670px;
+    color: #ffffff;
+}
+
+h3 {
+    color: #ffffff;
+}
+
+.more {
+    color: #ffffff;
+}
+
+.more a {
+    color: #0044ff;
+}
+
+.video {
+    margin-top: 25px;
+    margin-left: 320px;
+}
